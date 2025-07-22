@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment files
+.env
+*.env
+.venv/
+venv/
+env/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints
+
+# Streamlit
+.streamlit/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Uploaded & output files
+uploads/
+*.pdf
+*.csv
+
+# IDE
+.vscode/
+.idea/

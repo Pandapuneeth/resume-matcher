@@ -1,0 +1,5 @@
+{
+  "Data Scientist": ["python", "machine learning", "statistics", "sql", "deep learning"],
+  "Frontend Developer": ["javascript", "react", "html", "css", "ui/ux"],
+  "AI Engineer": ["python", "deep learning", "pytorch", "tensorflow", "nlp"]
+}
