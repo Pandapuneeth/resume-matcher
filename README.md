@@ -51,6 +51,10 @@ Here's a preview of the Resume Matcher in action:
 
 ![App Screenshot](Output/screenshot.png)
 
+## 🚀 Live Demo
+
+👉 [Try the Resume Matcher App](https://resume-matcher-jwghtpkddvignfcmpnxj7a.streamlit.app/)  
+Upload your resume and see which job roles you match with using AI-powered skill extraction and scoring.
 
 📬 Contact
 Want to build something similar or need help with a project?
